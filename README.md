@@ -1,6 +1,6 @@
 # AI Spend Audit Tool 🤖💰
 
-[![Deploy with Vercel](ai-spend-audit-tool-zeta.vercel.app)
+
 > **Live Demo**:(https://ai-spend-audit-tool-zeta.vercel.app)
 
 A premium, startup-style SaaS platform that helps organizations audit, optimize, and streamline their overspending on AI tool workspaces (like ChatGPT, Claude, GitHub Copilot, Cursor, Gemini Advanced, Windsurf) and developer endpoints (OpenAI API, Anthropic API). Built with React + Vite, Tailwind CSS v4, Framer Motion, and Supabase.
